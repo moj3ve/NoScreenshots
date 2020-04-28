@@ -1,0 +1,9 @@
+Package: com.nscake.photos.noscreenshots
+Name: NoScreenshots
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Hides screenshots and screen recordings from the main Photos tab. Also makes the theater navigation bars hide instantly.
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Author: Tanner Bennett <thepantsthief@me.com>
+Section: Tweaks
